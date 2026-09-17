@@ -10,6 +10,8 @@
 // @exclude      *://web.whatsapp.*/*
 // @grant        GM_xmlhttpRequest
 // @grant        GM_download
+// @updateURL    https://raw.githubusercontent.com/iyanrinri/Stream-Any-Video-Downloader/main/stream-video-downloader.js
+// @downloadURL  https://raw.githubusercontent.com/iyanrinri/Stream-Any-Video-Downloader/main/stream-video-downloader.js
 // ==/UserScript==
 
 (function() {
